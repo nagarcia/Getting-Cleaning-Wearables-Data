@@ -10,3 +10,4 @@
 
 # Finally, to create the new tidy data, I used a for loop and applied tapply to get the mean of each variable in dta grouped by activity and subject. Then I merged these data into one data frame called "tidymean."
 
+>
